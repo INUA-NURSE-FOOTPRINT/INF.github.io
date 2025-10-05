@@ -8,7 +8,7 @@
 
 ## Table of contents
 
-1. Organisation overview
+1. Home
 2. Core features & pages
 3. Tech stack & architecture (recommended)
 4. Project structure (suggested)
@@ -21,10 +21,11 @@
 11. Security & privacy
 12. Contribution guide
 13. Contact
+14. Gallery
 
 ---
 
-## 1. Organisation overview
+## 1. HOME
 
 This repository contains the code and documentation for the official **Inua Nurse Footprint (INF)** website. The site is intended for:
 
