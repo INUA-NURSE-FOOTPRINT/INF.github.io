@@ -1,16 +1,16 @@
-🌐 INF WEBSITE — COMPLETE CONTENT BLUEPRINT
+🌐
 🏠 1. Homepage
 
-Hero Section:
+
 
 Inua Nurse Footprint (INF)
 “Uplifting the Next Generation of Nurses”
 #UpliftTheNurseToUpliftTheCommunity | #LeaveNoNurseBehind | #TheNextGenerationOfNurses
 
-Intro Paragraph:
+
 Inua Nurse Footprint (INF) is a national student-led nursing organization founded under the leadership of Israel Alex Makori, Chairperson of the Nairobi University Nursing Students Association (NUNSA). INF seeks to inspire, empower, and equip nursing students and professionals for excellence in service, leadership, and community impact.
 
-Quick Highlights (Cards):
+Quick Highlights 
 
 💉 Clinical Mentorship & Skills Training
 
@@ -22,6 +22,7 @@ Quick Highlights (Cards):
 
 CTA Buttons:
 [Join INF] [Partner With Us] [View Programs]
+FORM; https://docs.google.com/forms/d/e/1FAIpQLSf17RrArtEyV-ZyFSUh6ZcJClX4O-ZywYeSa_NpIo8V88D0oQ/viewform?usp=header
 
 Testimonial Banner:
 
@@ -29,7 +30,6 @@ Testimonial Banner:
 
 👥 2. About Us Page
 
-Heading:
 
 About Inua Nurse Footprint (INF)
 
